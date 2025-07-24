@@ -34,7 +34,6 @@
 ### 📫 Connect with Me
 
 - 📍 **Andhra Pradesh, India**
-- 📧 [amaranageswararaochittela@gmail.com](mailto:amaranageswararaochittela@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/amara-nageswararao-chittela)
 - 💻 [HackerRank](https://www.hackerrank.com/profile/amaranageswarar1)
 - 🌐 [GitHub Profile](https://github.com/bunnychittela04)
