@@ -1,101 +1,76 @@
-
-<!-- Banner -->
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/bunnychittela04/bunnychittela04/main/banner.png" alt="banner"/>
-</p>
-
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/bunnychittela04?s=250" alt="profile" width="160" style="border-radius:50%; box-shadow:0 0 0 6px #fff;"/>
-</p>
-
+[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)](https://bunnychittela04.github.io)
 <h1 align="center">Hello people 👋, I'm Amara Nageswararao Chittela</h1>
+<h3 align="center">I'm a B.Tech Final Year Student in Computer Science & Data Science 🎓  
+Passionate Backend & Full Stack Python Developer skilled in Django, Flask, and React.js 🚀  
+Explore my repositories to see projects in Web Development, AI, and Data Science. 🌟</h3>
 
-<p align="center">
-🎓 B.Tech Final Year Student in Computer Science & Data Science  
-💻 Backend & Full-Stack Python Developer (Django | Flask | React.js)  
-🚀 Passionate about building scalable, data-driven web applications  
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+
+- 🔭 I’m currently working at **MagicBase Royal BD Pvt Ltd** as a **Python Full Stack Developer Intern**
+
+- 🌱 I’m currently learning **AWS, Machine Learning, and Advanced React.js**
+
+- 💬 Ask me about **Python, Django, Flask, React.js, and REST APIs**
+
+- 📫 How to reach me **bunnychittela04@gmail.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/amara-nageswararao-chittela" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amara-nageswararao-chittela" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/profile/amaranageswarar1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amaranageswarar1" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/Amara_123/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Amara_123" height="30" width="40" />
+</a>
+<a href="https://github.com/bunnychittela04" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="bunnychittela04" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔭 Currently working as **Python Full Stack Developer Intern at MagicBase Royal BD Pvt Ltd**
-- 🌱 Expanding skills in **Django, React.js, AWS, and Machine Learning**
-- 💬 Ask me about **Python, APIs, and Web Development**
-- 📫 Reach me at: **[bunnychittela04@gmail.com](mailto:bunnychittela04@gmail.com)**
-- ⚡ Fun fact: I love turning ideas into working prototypes 🚀
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
 </p>
 
 ---
 
-### 📚 Featured Projects
+<h3 align="left">GitHub Stats:</h3>
 
-🔹 [AI-Powered Resume Analyzer](https://github.com/bunnychittela04/AI-Powered-Resume-Analyzer) — NLP-based web tool for resume-job matching  
-🔹 [Grocery Store Management System](https://github.com/bunnychittela04/grocery-store-management-system/tree/master/Grocery-Management-System-main) — Flask + MySQL app for real-time inventory management  
-🔹 [Staff Profile Management System](https://github.com/bunnychittela04/Staff-Profile-App) — MERN stack multi-step form for staff data management  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunnychittela04&show_icons=true&locale=en&layout=compact" alt="bunnychittela04" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnychittela04&show_icons=true&locale=en" alt="bunnychittela04" /></p>
 
-### 🏆 Achievements & Certifications
-
-- 🥇 Completed **500+ coding challenges** on **LeetCode** and **HackerRank**
-- 🧠 Certifications:  
-  - Google — *Generative AI*  
-  - IIIT Hyderabad — *Machine Learning (FMML)*  
-  - Cisco — *Cyber Security Essentials*  
-  - HackerRank — *SQL Advanced, React.js*
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bunnychittela04&show_icons=true&theme=default&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnychittela04&layout=compact&theme=default" height="160"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amara-nageswararao-chittela">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/bunnychittela04">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/amaranageswarar1">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Amara_123/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="mailto:bunnychittela04@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐️ *“Building reliable, efficient, and user-centric software — one commit at a time.”*  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunnychittela04&" alt="bunnychittela04" /></p>
