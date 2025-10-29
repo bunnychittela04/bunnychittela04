@@ -1,4 +1,4 @@
-[![MasterHead](https://docsandslides.com/wp-content/uploads/2024/08/How-to-Make-a-Business-Card-Template-in-Google-Docs.webp)
+[![MasterHead](https://618media.com/wp-content/uploads/2024/01/choosing-the-right-campaign-type.webp)
 <h1 align="center">Hello people 👋, I'm Amara Nageswararao Chittela</h1>
 <h3 align="center">I'm a B.Tech Final Year Student in Computer Science & Data Science 🎓  
 Passionate Backend & Full Stack Python Developer skilled in Django, Flask, and React.js 🚀  
