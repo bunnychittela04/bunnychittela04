@@ -2,17 +2,21 @@
 
 <h1 align="center">Hello people 👋, I'm Amara Nageswararao Chittela</h1>
 <h3 align="center">
-I'm a B.Tech Final Year Student in Computer Science & Data Science 🎓  
-A Passionate Backend & Full Stack Python Developer skilled in Django, Flask, and React.js 🚀  
-Explore my repositories to see projects in Web Development, AI, and Data Science 🌟
+I'm a Python Full Stack Developer 💻 with around 1 year of hands-on experience in building and deploying scalable web applications.  
+I specialize in developing robust backend systems using Python and Flask, and dynamic frontends using React.js.  
+Passionate about crafting efficient, user-focused, and data-driven solutions 🚀
 </h3>
 
 <img align="right" alt="coding" width="350" src="https://tse3.mm.bing.net/th/id/OIP.EKPtKh3RxhDqhVUu17JgpQHaEK?w=1600&h=900&rs=1&pid=ImgDetMain&o=7&rm=3">
 
-- 🔭 I’m currently working at **MagicBase Royal BD Pvt Ltd** as a **Python Full Stack Developer Intern**
-- 🌱 I’m currently learning **AWS, Machine Learning, and Advanced React.js**
-- 💬 Ask me about **Python, Django, Flask, React.js, and REST APIs**
-- 📫 How to reach me **bunnychittela04@gmail.com**
+- 💼 Currently working as a **Python Full Stack Developer at MagicBase Royal BD Pvt Ltd**  
+- 🔧 Experienced in **Python, Flask, React.js, MySQL, MongoDB**, and **REST API development**  
+- ⚙️ Designed and deployed full-stack applications improving system efficiency by up to 40%  
+- ☁️ Exploring **AWS Cloud**, **Machine Learning**, and **Advanced React.js**  
+- 🧠 Problem Solver — Solved **500+ coding challenges** on **LeetCode** and **HackerRank** (Gold Badge in Python & SQL)  
+- 💬 Ask me about **Backend Development, APIs, System Architecture, or Cloud Integration**  
+- 📫 Reach me at **bunnychittela04@gmail.com**
+
 
 ---
 
