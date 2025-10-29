@@ -1,4 +1,4 @@
-[![MasterHead](https://618media.com/wp-content/uploads/2024/01/choosing-the-right-campaign-type.webp)
+[![MasterHead](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkqpsc0jw76iaxr1vumb.png)
 <h1 align="center">Hello people 👋, I'm Amara Nageswararao Chittela</h1>
 <h3 align="center">I'm a B.Tech Final Year Student in Computer Science & Data Science 🎓  
 Passionate Backend & Full Stack Python Developer skilled in Django, Flask, and React.js 🚀  
