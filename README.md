@@ -56,11 +56,11 @@ Passionate about crafting efficient, user-focused, and data-driven solutions ğŸš
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google-Generative%20AI-blue?logo=google&logoColor=white" alt="Google Generative AI" />
-  <img src="https://img.shields.io/badge/IIIT%20Hyderabad-Machine%20Learning%20(FMML)-orange" alt="IIIT Hyderabad FMML" />
-  <img src="https://img.shields.io/badge/Cisco-Cyber%20Security%20Essentials-green?logo=cisco&logoColor=white" alt="Cisco Cyber Security Essentials" />
+  <img src="https://www.linkedin.com/posts/amara-nageswararao-chittela_fmml-activity-7078929610142355457-3QAa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPAs8YBsZ6-ZI_eLwIHg36jKunmJ8ovEE0" alt="IIIT Hyderabad FMML" />
+  <img src="https://www.linkedin.com/posts/amara-nageswararao-chittela_cybersecurity-activity-7090209544793980928--YvJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPAs8YBsZ6-ZI_eLwIHg36jKunmJ8ovEE0" alt="Cisco Cyber Security Essentials" />
   <img src="https://img.shields.io/badge/HackerRank-Python%20(Gold%20Badge)-brightgreen?logo=hackerrank&logoColor=white" alt="HackerRank Python Gold Badge" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-blue?logo=hackerrank&logoColor=white" alt="HackerRank SQL Advanced" />
-  <img src="https://img.shields.io/badge/HackerRank-React.js-lightblue?logo=react&logoColor=white" alt="HackerRank React.js" />
+  <img src="https://www.linkedin.com/posts/amara-nageswararao-chittela_sql-advancedsql-datascience-activity-7333488633582100480-DzYg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPAs8YBsZ6-ZI_eLwIHg36jKunmJ8ovEE0" alt="HackerRank SQL Advanced" />
+  <img src="https://www.linkedin.com/posts/amara-nageswararao-chittela_reactjs-webdevelopment-frontend-activity-7333827169976033283-hTEe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPAs8YBsZ6-ZI_eLwIHg36jKunmJ8ovEE0" alt="HackerRank React.js" />
 </p>
 
 ---
