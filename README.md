@@ -61,6 +61,10 @@ Explore my repositories to see projects in Web Development, AI, and Data Science
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bunnychittela04&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<h3 align="left">GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunnychittela04&show_icons=true&locale=en&layout=compact" alt="bunnychittela04" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnychittela04&show_icons=true&locale=en" alt="bunnychittela04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunnychittela04&" alt="bunnychittela04" /></p>
