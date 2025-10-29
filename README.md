@@ -69,7 +69,7 @@ Explore my repositories to see projects in Web Development, AI, and Data Science
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunnychittela04&show_icons=true&locale=en&layout=compact" alt="bunnychittela04" /></p>
+<p><img align="left" src="C:\Users\AMARA\OneDrive\Pictures\Github.png" alt="bunnychittela04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnychittela04&show_icons=true&locale=en" alt="bunnychittela04" /></p>
 
