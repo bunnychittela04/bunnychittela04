@@ -49,17 +49,6 @@ Explore my repositories to see projects in Web Development, AI, and Data Science
 
 ---
 
-### 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnychittela04&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=bunnychittela04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
 
 <h3 align="left">GitHub Stats:</h3>
 
