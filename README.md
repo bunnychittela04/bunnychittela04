@@ -1,5 +1,4 @@
-[![MasterHead](<img width="269" height="187" alt="Github" src="https://github.com/user-attachments/assets/edbb7c2f-a6b7-47ed-917f-142f0138cd67" />
-)](https://bunnychittela04.github.io)
+[![MasterHead](https://cdn.prod.website-files.com/5ea704591b73e7337746aa7b/641372bf65c5c826d9d3c5ec_How%20to%20Create%20a%20Ticketing%20System%20with%20Google%20Forms-p-1080.png)](https://bunnychittela04.github.io)
 <h1 align="center">Hello people 👋, I'm Amara Nageswararao Chittela</h1>
 <h3 align="center">I'm a B.Tech Final Year Student in Computer Science & Data Science 🎓  
 Passionate Backend & Full Stack Python Developer skilled in Django, Flask, and React.js 🚀  
