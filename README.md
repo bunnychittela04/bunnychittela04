@@ -17,7 +17,6 @@ Passionate about crafting efficient, user-focused, and data-driven solutions �
 - 💬 Ask me about **Backend Development, APIs, System Architecture, or Cloud Integration**  
 - 📫 Reach me at **bunnychittela04@gmail.com**
 
-
 ---
 
 ### 🌐 Connect with me:
@@ -53,11 +52,31 @@ Passionate about crafting efficient, user-focused, and data-driven solutions �
 
 ---
 
+### 🏅 Certifications
 
-<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google-Generative%20AI-blue?logo=google&logoColor=white" alt="Google Generative AI" />
+  <img src="https://img.shields.io/badge/IIIT%20Hyderabad-Machine%20Learning%20(FMML)-orange" alt="IIIT Hyderabad FMML" />
+  <img src="https://img.shields.io/badge/Cisco-Cyber%20Security%20Essentials-green?logo=cisco&logoColor=white" alt="Cisco Cyber Security Essentials" />
+  <img src="https://img.shields.io/badge/HackerRank-Python%20(Gold%20Badge)-brightgreen?logo=hackerrank&logoColor=white" alt="HackerRank Python Gold Badge" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-blue?logo=hackerrank&logoColor=white" alt="HackerRank SQL Advanced" />
+  <img src="https://img.shields.io/badge/HackerRank-React.js-lightblue?logo=react&logoColor=white" alt="HackerRank React.js" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunnychittela04&show_icons=true&locale=en&layout=compact" alt="bunnychittela04" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnychittela04&show_icons=true&locale=en" alt="bunnychittela04" /></p>
+### 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnychittela04&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bunnychittela04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunnychittela04&" alt="bunnychittela04" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bunnychittela04&theme=tokyonight" alt="GitHub Streak" />
+</p>
