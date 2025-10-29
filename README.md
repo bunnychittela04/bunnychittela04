@@ -4,7 +4,7 @@
 Passionate Backend & Full Stack Python Developer skilled in Django, Flask, and React.js 🚀  
 Explore my repositories to see projects in Web Development, AI, and Data Science. 🌟</h3>
 
-<img align="right" alt="coding" width="200" src="https://img.freepik.com/premium-vector/man-room-with-computer-monitor-with-glasses_1230457-15211.jpg">
+<img align="right" alt="coding" width="100" src="https://tse3.mm.bing.net/th/id/OIP.EKPtKh3RxhDqhVUu17JgpQHaEK?w=1600&h=900&rs=1&pid=ImgDetMain&o=7&rm=3">
 
 - 🔭 I’m currently working at **MagicBase Royal BD Pvt Ltd** as a **Python Full Stack Developer Intern**
 
