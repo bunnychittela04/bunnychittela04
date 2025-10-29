@@ -1,4 +1,4 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)](https://bunnychittela04.github.io)
+[![MasterHead](C:\Users\AMARA\OneDrive\Pictures\Github.png)](https://bunnychittela04.github.io)
 <h1 align="center">Hello people 👋, I'm Amara Nageswararao Chittela</h1>
 <h3 align="center">I'm a B.Tech Final Year Student in Computer Science & Data Science 🎓  
 Passionate Backend & Full Stack Python Developer skilled in Django, Flask, and React.js 🚀  
